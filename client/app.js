@@ -1,5 +1,5 @@
 
-angular.module('test', ['ngRoute', 'ngCookies'])
+angular.module('app', ['ngRoute', 'ngCookies'])
 .config(function($routeProvider) {
 
   $routeProvider
@@ -137,6 +137,4 @@ angular.module('test', ['ngRoute', 'ngCookies'])
     }
     $scope.customers = [];
   });
-})
-
-;
+});

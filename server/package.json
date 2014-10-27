@@ -10,6 +10,7 @@
     "hapi": "7.0.0",
     "hapi-auth-jwt": "1.0.0",
     "jsonwebtoken": "1.1.2",
-    "moment": "2.5.x"
+    "moment": "2.5.x",
+    "faker": "*"
   }
 }
